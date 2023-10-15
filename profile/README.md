@@ -38,7 +38,7 @@ More comming, stay tuned!
 ## Team
 
 - [@Eliott-Avetand](https://github.com/Eliott-Avetand) - The "Proyecto del refe" _(or Project Director)_
-- [@gregoirebiendine](https://www.github.com/gregoirebiendine) - The "Artistic Director" _(or Perforce Master)_
+- [@gregoirebiendine](https://www.github.com/gregoirebiendine) - The "Artistic Director" _(or Integration Master)_
 - [@AlexisDevloo](https://www.github.com/AlexisDevloo) - The "Homme 3D" _(or Blender Master)_
 - [@Saymon24](https://www.github.com/Saymon24) - The "Unreal Mister" _(or Unreal Master)_
 - [@Abecarne](https://www.github.com/Abecarne) - The "Prez Chief" _(or Level Designer)_
